@@ -6,7 +6,7 @@ Tema Aplikasi : Produktifitas Nama Aplikasi : E-Notes
 Kelompok E :
 
     Arief Kurniawan - 1941415
-    Nanda Handayani -
+    Nanda Handayani - 1941472
     Siti Aisah Jamil - 1941488
     Rani rohaeni -
     Huchi Wulandari -
