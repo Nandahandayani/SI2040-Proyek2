@@ -1,4 +1,4 @@
-# SI2046-Proyek2
+# SI20406-Proyek2
 Tugas Proyek #2 untuk Memenuhi tugas proyek 2 AMD dari Kelompok E
 
 Tema Aplikasi : Produktifitas Nama Aplikasi : E-Notes
